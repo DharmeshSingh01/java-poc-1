@@ -1,0 +1,13 @@
+com\example\emp\service\StudentService.class
+com\example\emp\service\UserService.class
+com\example\emp\controller\StudentController.class
+com\example\emp\domain\User.class
+com\example\emp\ServletInitializer.class
+com\example\emp\repository\StudentRepository.class
+com\example\emp\SampleApplication2Application.class
+com\example\emp\controller\KeyVaultManuallyConfiguredClient.class
+com\example\emp\controller\KeyVaultClient.class
+com\example\emp\domain\Student.class
+com\example\emp\repository\UserRepository.class
+com\example\emp\service\Producer.class
+com\example\emp\service\Consumer.class
