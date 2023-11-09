@@ -18,6 +18,8 @@ import com.azure.spring.cloud.service.implementation.keyvault.KeyVaultProperties
 
 
 
+
+
 //@EnableConfigurationProperties(KeyVaultProperties.class)
 @Component("KeyVaultManuallyConfiguredClient")
 public class KeyVaultManuallyConfiguredClient implements KeyVaultClient {
