@@ -5,6 +5,7 @@ import java.util.NoSuchElementException;
 import com.azure.security.keyvault.secrets.SecretClient;
 import com.azure.security.keyvault.secrets.models.KeyVaultSecret;
 
+
 public interface KeyVaultClient {
 	SecretClient getSecretClient();
 
