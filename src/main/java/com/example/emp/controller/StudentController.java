@@ -24,7 +24,6 @@ import com.example.emp.service.Consumer;
 import com.example.emp.service.Producer;
 
 /*import com.azure.messaging.servicebus.*;*/
-
 import java.util.concurrent.CountDownLatch;
 import java.util.concurrent.TimeUnit;
 import java.util.Arrays;
